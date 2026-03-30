@@ -2,7 +2,7 @@
   "id": "model-profile",
   "name": "Model Profile Switcher",
   "description": "Swap AGENTS.md / SOUL.md and related bootstrap files based on the active model.",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "configSchema": {
     "type": "object",
     "additionalProperties": false,
