@@ -1,0 +1,9 @@
+{
+  "name": "model-profile",
+  "version": "1.0.0",
+  "description": "OpenClaw plugin: swap workspace bootstrap files based on the active model",
+  "type": "module",
+  "openclaw": {
+    "hooks": ["./hooks/model-profile"]
+  }
+}
